@@ -4,12 +4,12 @@ This list contains a collection of papers investigating lecture notes generation
 
 ## Table of Contents
 
-- [The Impact of Lecture Note Writing in Learning](#impact-in-learning)
-- [Lecture Note Writing Methods and Challenges](#methods-challenges)
-- [Lecture Note Automatic Generation](#automatic-generation)
-- [Other Related Educational Methods](#related)
-- [LLMs Applications](#LLMs-applications)
-- [Applications of LLMs in Learning](#LLMs-applications-in-learning)
+- [The Impact of Lecture Note Writing in Learning](#The-Impact-of-Lecture-Note-Writing-in-Learning)
+- [Lecture Note Writing Methods and Challenges](#Lecture-Note-Writing-Methods-and-Challenges)
+- [Lecture Note Automatic Generation](#Lecture-Note-Automatic-Generation)
+- [Other Related Educational Methods](#Other-Related-Educational-Methods)
+- [LLMs Applications](#LLMs-Applications)
+- [Applications of LLMs in Learning](#Applications-of-LLMs-in-Learning)
 - [Other Related LLMs Applications](#Other-Related-LLMs-Applications)
 
 ## The Impact of Lecture Note Writing in Learning
