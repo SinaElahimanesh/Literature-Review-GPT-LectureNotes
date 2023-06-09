@@ -44,8 +44,18 @@ This list contains a collection of papers investigating lecture notes generation
 ## LLMs Applications
 
 - [Welcome to the Era of ChatGPT et al.](https://link.springer.com/article/10.1007/s12599-023-00795-x)
-- [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376)
+- [ChatGPT utility in healthcare education, research, and practice: systematic review on the promising perspectives and valid concerns](https://www.mdpi.com/2227-9032/11/6/887)
+- [Using ChatGPT and Other Large Language Model (LLM) Applications for Academic Paper Assignments](https://fis.uni-bamberg.de/handle/uniba/58950)
+- [ChatGPT for tourism: applications, benefits and risks](https://www.emerald.com/insight/content/doi/10.1108/TR-02-2023-0088/full/html)
+- [Implications of large language models such as ChatGPT for dental medicine](https://onlinelibrary.wiley.com/doi/full/10.1111/jerd.13046)
+- [Attention is not all you need: the complicated case of ethically using large language models in healthcare and medicine](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00077-4/fulltext?ref=dedataverbinders.nl)
+- [Evaluation of chatgpt for nlp-based mental health applications](https://arxiv.org/abs/2303.15727)
+- [ChatGPT is on the horizon: Could a large language model be all we need for Intelligent Transportation?](https://arxiv.org/abs/2303.05382)
+- [ChatGPT for Shaping the Future of Dentistry: The Potential of Multi-Modal Large Language Model](https://arxiv.org/abs/2304.03086)
+- [Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models](https://arxiv.org/abs/2304.07619)
 - [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852)
+- [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376)
+
 
 ## Applications of LLMs in Learning
 
