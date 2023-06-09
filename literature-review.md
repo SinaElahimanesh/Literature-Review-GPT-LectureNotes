@@ -1,6 +1,6 @@
 # Literature Review on intersection of LLMs and Lecuture Notes 
 
-This list contains a collection of papers investigating peer grading / peer assessment in educational settings.
+This list contains a collection of papers investigating lecture notes generation with the aid of LLMs.
 
 ## Table of Contents
 
