@@ -21,6 +21,8 @@ This list contains a collection of papers investigating lecture notes generation
 - [A review of writing to learn in science: Implications for practice and research](https://onlinelibrary.wiley.com/doi/abs/10.1002/tea.3660310910)
 - [Writing as a learning tool: An Introduction](https://link.springer.com/chapter/10.1007/978-94-010-0740-5_2)
 - [Learning by doing](https://www.researchgate.net/publication/279589632_Learning_by_doing)
+- [Active Learning and its use in Computer Science](https://users.cs.jmu.edu/adamses/Web/CS430/Lectures/p52-mcconnell.pdf)
+- [Assessment of active learning with upper division computer science students](https://www.researchgate.net/publication/4054740_Assessment_of_active_learning_with_upper_division_computer_science_students)
 
 
 ## Lecture Note Writing Methods and Challenges
