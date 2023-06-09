@@ -5,7 +5,7 @@ This list contains a collection of papers investigating lecture notes generation
 ## Table of Contents
 
 - [The Impact of Lecture Note Writing in Learning](#impact-in-learning)
-- [Some Issues of Traditional Methods for Lecture Note Writing](#traditional-methods-issues)
+- [Lecture Note Writing Challenges](#challenges)
 - [Lecture Note Automatic Generation](#automatic-generation)
 - [LLMs Applications](#LLMs-applications)
 - [Applications of LLMs in Learning](#LLMs-applications-in-learning)
@@ -21,7 +21,7 @@ This list contains a collection of papers investigating lecture notes generation
 - [Writing as a learning tool: An Introduction](https://link.springer.com/chapter/10.1007/978-94-010-0740-5_2)
 
 
-## Some Issues of Traditional Methods for Lecture Note Writing
+## Lecture Note Writing Challenges
 
 - [Both handwriting speed and selective attention are important to lecture note-taking](https://link.springer.com/article/10.1007/s11145-013-9431-x)
 
