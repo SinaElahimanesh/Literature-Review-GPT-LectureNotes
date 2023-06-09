@@ -1,4 +1,4 @@
-# Literature Review on intersection of LLMs and Lecuture Notes 
+# Literature Review on intersection of LLMs and Lecuture Note Generation
 
 This list contains a collection of papers investigating lecture notes generation with the aid of LLMs.
 
