@@ -10,7 +10,7 @@ This list contains a collection of papers investigating lecture notes generation
 - [Other Related Educational Methods](#related)
 - [LLMs Applications](#LLMs-applications)
 - [Applications of LLMs in Learning](#LLMs-applications-in-learning)
-- [Other Related LLMs Applications](#LLMs-related-applications)
+- [Other Related LLMs Applications](#Other-Related-LLMs-Applications)
 
 ## The Impact of Lecture Note Writing in Learning
 
