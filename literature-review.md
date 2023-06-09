@@ -7,6 +7,7 @@ This list contains a collection of papers investigating lecture notes generation
 - [The Impact of Lecture Note Writing in Learning](#impact-in-learning)
 - [Lecture Note Writing Methods and Challenges](#methods-challenges)
 - [Lecture Note Automatic Generation](#automatic-generation)
+- [Other Related Educational Methods](#related)
 - [LLMs Applications](#LLMs-applications)
 - [Applications of LLMs in Learning](#LLMs-applications-in-learning)
 
@@ -19,6 +20,7 @@ This list contains a collection of papers investigating lecture notes generation
 - [High school teachers use of writing to support students’ learning: a national survey](https://link.springer.com/article/10.1007/s11145-013-9494-8)
 - [A review of writing to learn in science: Implications for practice and research](https://onlinelibrary.wiley.com/doi/abs/10.1002/tea.3660310910)
 - [Writing as a learning tool: An Introduction](https://link.springer.com/chapter/10.1007/978-94-010-0740-5_2)
+- [Learning by doing](https://www.researchgate.net/publication/279589632_Learning_by_doing)
 
 
 ## Lecture Note Writing Methods and Challenges
@@ -40,6 +42,9 @@ This list contains a collection of papers investigating lecture notes generation
 - [Automatic generation of technical-style notes from live lecture](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=680bf4507cdbbe37abb480ace00f7cc4717c087f)
 - [Automatic Generation of Sequence-Style Notes from Live Lecture](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=1233cbdb825bcd8f40e5e566694083e56e84688d)
 - [E-notes: using electronic lecture notes to support active learning in computer science](https://dl.acm.org/doi/abs/10.1145/782941.782981)
+
+## Other Related Educational Methods
+- [Small Talk Conversations and the Long-Term Use of Chatbots in Educational Settings – Experiences from a Field Study](https://link.springer.com/chapter/10.1007/978-3-030-39540-7_18)
 
 ## LLMs Applications
 
