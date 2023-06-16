@@ -69,6 +69,8 @@ This list contains a collection of papers investigating lecture notes generation
 - [Automatic generation of technical-style notes from live lecture](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=680bf4507cdbbe37abb480ace00f7cc4717c087f)
 - [Automatic Generation of Sequence-Style Notes from Live Lecture](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=1233cbdb825bcd8f40e5e566694083e56e84688d)
 - [E-notes: using electronic lecture notes to support active learning in computer science](https://dl.acm.org/doi/abs/10.1145/782941.782981)
+- [LECTURE2NOTE: AUTOMATIC GENERATION OF LECTURE NOTES FROM
+SLIDE-BASED EDUCATIONAL VIDEOS](https://www.researchgate.net/profile/Baoquan-Zhao/publication/334997213_Lecture2Note_Automatic_Generation_of_Lecture_Notes_from_Slide-Based_Educational_Videos/links/5f53c71592851c250b94e316/Lecture2Note-Automatic-Generation-of-Lecture-Notes-from-Slide-Based-Educational-Videos.pdf)
 
 ## Other Related Educational Methods
 - [Small Talk Conversations and the Long-Term Use of Chatbots in Educational Settings – Experiences from a Field Study](https://link.springer.com/chapter/10.1007/978-3-030-39540-7_18)
