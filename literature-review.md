@@ -4,6 +4,7 @@ This list contains a collection of papers investigating lecture notes generation
 
 ## Table of Contents
 
+- [Active Learning](#Active-Learning)
 - [The Impact of Lecture Note Writing in Learning](#The-Impact-of-Lecture-Note-Writing-in-Learning)
 - [Lecture Note Writing Methods and Challenges](#Lecture-Note-Writing-Methods-and-Challenges)
 - [Lecture Note Automatic Generation](#Lecture-Note-Automatic-Generation)
@@ -11,6 +12,16 @@ This list contains a collection of papers investigating lecture notes generation
 - [LLMs Applications](#LLMs-Applications)
 - [Applications of LLMs in Learning](#Applications-of-LLMs-in-Learning)
 - [Other Related LLMs Applications](#Other-Related-LLMs-Applications)
+
+## Active Learning
+
+- [Active Learning:Creating Excitement in the Classroom](https://files.eric.ed.gov/fulltext/ED336049.pdf)
+- [Engaging Students' Learning Through Active Learning](https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1027&context=ijap)
+- [Learning by doing](https://www.researchgate.net/publication/279589632_Learning_by_doing)
+- [Active Learning and its use in Computer Science](https://users.cs.jmu.edu/adamses/Web/CS430/Lectures/p52-mcconnell.pdf)
+- [Assessment of active learning with upper division computer science students]
+- [The Concept of Active Learning and the Measurement of Learning Outcomes: A Review of Research in Engineering Higher Education](https://www.mdpi.com/2227-7102/9/4/276)
+- [Active Learning](https://www.oaa.osu.edu/sites/default/files/uploads/nfo/2019/Active-Learning-article.pdf)
 
 ## The Impact of Lecture Note Writing in Learning
 
@@ -21,9 +32,13 @@ This list contains a collection of papers investigating lecture notes generation
 - [High school teachers use of writing to support students’ learning: a national survey](https://link.springer.com/article/10.1007/s11145-013-9494-8)
 - [A review of writing to learn in science: Implications for practice and research](https://onlinelibrary.wiley.com/doi/abs/10.1002/tea.3660310910)
 - [Writing as a learning tool: An Introduction](https://link.springer.com/chapter/10.1007/978-94-010-0740-5_2)
-- [Learning by doing](https://www.researchgate.net/publication/279589632_Learning_by_doing)
-- [Active Learning and its use in Computer Science](https://users.cs.jmu.edu/adamses/Web/CS430/Lectures/p52-mcconnell.pdf)
-- [Assessment of active learning with upper division computer science students](https://www.researchgate.net/publication/4054740_Assessment_of_active_learning_with_upper_division_computer_science_students)
+(https://www.researchgate.net/publication/4054740_Assessment_of_active_learning_with_upper_division_computer_science_students)
+- [The Effects of School-Based Writing-to-Learn Interventions on Academic Achievement: A Meta-Analysis.](https://psycnet.apa.org/record/2004-13809-002)
+- [Making connections: Evaluating the effectiveness of journal writing in enhancing student learning.](https://psycnet.apa.org/record/2000-07173-010)
+- [Writing as a Mode of Learning](https://www.jstor.org/stable/356095)
+- [Writing-to-Learn, Writing-to-Communicate, & Scientific Literacy](https://online.ucpress.edu/abt/article-abstract/75/3/170/20659/Writing-to-Learn-Writing-to-Communicate-amp)
+- [Writing to Learn: Benefits and Limitations](https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1104&context=cifs_facpubs)
+- [The Promise of Writing to Learn](https://journals.sagepub.com/doi/abs/10.1177/0741088393010003002?journalCode=wcxa)
 
 
 ## Lecture Note Writing Methods and Challenges
