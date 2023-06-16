@@ -6,7 +6,7 @@ This list contains a collection of papers investigating lecture notes generation
 
 - [Active Learning](#Active-Learning)
 - [The Impact of Lecture Note Writing in Learning](#The-Impact-of-Lecture-Note-Writing-in-Learning)
-- [Lecture Note Writing Methods and Challenges](#Lecture-Note-Writing-Methods-and-Challenges)
+- [Lecture Note Writing Strategies and Challenges](#Lecture-Note-Writing-Strategies-and-Challenges)
 - [Lecture Note Automatic Generation](#Lecture-Note-Automatic-Generation)
 - [Other Related Educational Methods](#Other-Related-Educational-Methods)
 - [LLMs Applications](#LLMs-Applications)
@@ -41,7 +41,7 @@ This list contains a collection of papers investigating lecture notes generation
 - [The Promise of Writing to Learn](https://journals.sagepub.com/doi/abs/10.1177/0741088393010003002?journalCode=wcxa)
 
 
-## Lecture Note Writing Methods and Challenges
+## Lecture Note Writing Strategies and Challenges
 
 - [Both handwriting speed and selective attention are important to lecture note-taking](https://link.springer.com/article/10.1007/s11145-013-9431-x)
 - [What predicts skill in lecture note taking?](https://psycnet.apa.org/record/2007-01726-013)
@@ -52,6 +52,16 @@ This list contains a collection of papers investigating lecture notes generation
 - [In-class and after-class lecture note-taking strategies](https://journals.sagepub.com/doi/abs/10.1177/1469787419893490?journalCode=alha)
 - [The impact of digital distraction on lecture note taking and student learning](https://link.springer.com/article/10.1007/s11251-020-09517-2)
 - [A review of note-taking: The encoding-storage paradigm and beyond](https://link.springer.com/article/10.1007/BF01326640)
+- [Relationship between automaticity in handwriting and students' ability to generate written text](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0022-0663.91.1.44)
+- [The relationship between information-processing ability and notetaking](https://d1wqtxts1xzle7.cloudfront.net/52187139/0361-476X_2888_2990004-520170317-2352-4i3ku1-libre.pdf?1489747223=&response-content-disposition=inline%3B+filename%3DThe_relationship_between_information_pro.pdf&Expires=1686937206&Signature=PIbmeGGqNDR~r8KTK6c1~WeBSauAEjmV~FU~seMf6Rr8iqZNfB6EI0c1VJrFOBryKEc4Ji63dSadfP6dxlDSwFtc9Ikpiaae87QcPREbNSs~i-qyRHODN-9lxa8NRNOXA8PZhRCJLJ0lJoykfOd4nrX02Tu36DhME7e-0aGFTDF846aylqN4iTqB1sNZZiRkDQSQxeAu9NjrdlqGJUOZ7BeikO9mVcVo2wqrUJZnRfwSUCNZ8RiwPMBTO0OjQ43PPfD~fNbQkPZgeMYjP0tgDltFww2ErGNTlQcopsDJ4O6GUkjDwoZqicvtNlkyAukmqgcO~~JlzU9F4RCYv9cUEw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+- [Listening and note taking: II. Immediate and delayed recall as functions of variations in thematic continuity, note taking, and length of listening-review intervals](https://psycnet.apa.org/record/1973-31965-001)
+- [Learning from Text: A Multidimensional and Developmental Perspective](https://www.researchgate.net/profile/Patricia-Alexander-6/publication/257936710_Alexander_P_A_Jetton_T_L_2000_Learning_from_text_A_multidimensional_and_developmental_perspective_Handbook_of_reading_research_3_285-310/links/56b5f4dd08ae3c1b79ad1860/Alexander-P-A-Jetton-T-L-2000-Learning-from-text-A-multidimensional-and-developmental-perspective-Handbook-of-reading-research-3-285-310.pdf)
+- [How college science students engage in note-taking strategies](https://onlinelibrary.wiley.com/doi/abs/10.1002/tea.20115)
+- [The role of working memory abilities in lecture note-taking](https://www.sciencedirect.com/science/article/abs/pii/S1041608014000958)
+- [Blackwell Publishing Asia SHORT REPORT Effects of interventions in note-taking Conditional effects of interventions in note-taking procedures on learning: A meta-analysis](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-5884.2006.00311.x)
+- [Taking notes from lectures](https://psycnet.apa.org/record/1999-04238-006)
+- 
+
 
 ## Lecture Note Automatic Generation
 
