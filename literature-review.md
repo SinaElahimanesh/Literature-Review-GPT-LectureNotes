@@ -11,7 +11,6 @@ This list contains a collection of papers investigating lecture notes generation
 - [Other Related Educational Methods](#Other-Related-Educational-Methods)
 - [LLMs Applications](#LLMs-Applications)
 - [Applications of LLMs in Learning](#Applications-of-LLMs-in-Learning)
-- [Other Related LLMs Applications](#Other-Related-LLMs-Applications)
 
 ## Active Learning
 
@@ -101,16 +100,13 @@ SLIDE-BASED EDUCATIONAL VIDEOS](https://www.researchgate.net/profile/Baoquan-Zha
 - [Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models](https://arxiv.org/abs/2304.07619)
 - [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852)
 - [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376)
-
-
-## Applications of LLMs in Learning
-
-- [ChatGPT for good? On opportunities and challenges of large language models for education](https://www.sciencedirect.com/science/article/pii/S1041608023000195)
-- [The Utility of ChatGPT as an Example of Large Language Models in Healthcare Education, Research and Practice: Systematic Review on the Future Perspectives and Potential Limitations](https://www.medrxiv.org/content/10.1101/2023.02.19.23286155v1)
-
-## Other Related LLMs Applications
 - [MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models](https://typeset.io/papers/megatron-cntrl-controllable-story-generation-with-external-1gebtjot3k)
 - [HOLMS: Alternative Summary Evaluation with Large Language Models](https://typeset.io/papers/holms-alternative-summary-evaluation-with-large-language-1v04ofj1no)
 - [Mining Insights from Large-Scale Corpora Using Fine-Tuned Language Models](https://typeset.io/papers/mining-insights-from-large-scale-corpora-using-fine-tuned-1l3t4x21em)
 - [Collaborative Storytelling with Large-scale Neural Language Models](https://typeset.io/papers/collaborative-storytelling-with-large-scale-neural-language-4vzo1jqu1t)
 - [Language Models as Knowledge Bases](https://typeset.io/papers/language-models-as-knowledge-bases-2bs7zawas9)
+
+## Applications of LLMs in Learning
+
+- [ChatGPT for good? On opportunities and challenges of large language models for education](https://www.sciencedirect.com/science/article/pii/S1041608023000195)
+- [The Utility of ChatGPT as an Example of Large Language Models in Healthcare Education, Research and Practice: Systematic Review on the Future Perspectives and Potential Limitations](https://www.medrxiv.org/content/10.1101/2023.02.19.23286155v1)
