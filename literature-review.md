@@ -58,7 +58,6 @@ This list contains a collection of papers investigating lecture notes generation
 - [The role of working memory abilities in lecture note-taking](https://www.sciencedirect.com/science/article/abs/pii/S1041608014000958)
 - [Blackwell Publishing Asia SHORT REPORT Effects of interventions in note-taking Conditional effects of interventions in note-taking procedures on learning: A meta-analysis](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-5884.2006.00311.x)
 - [Taking notes from lectures](https://psycnet.apa.org/record/1999-04238-006)
-- 
 
 
 ## Lecture Note Automatic Generation
