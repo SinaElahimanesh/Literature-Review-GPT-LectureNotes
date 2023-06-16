@@ -19,7 +19,7 @@ This list contains a collection of papers investigating lecture notes generation
 - [Engaging Students' Learning Through Active Learning](https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1027&context=ijap)
 - [Learning by doing](https://www.researchgate.net/publication/279589632_Learning_by_doing)
 - [Active Learning and its use in Computer Science](https://users.cs.jmu.edu/adamses/Web/CS430/Lectures/p52-mcconnell.pdf)
-- [Assessment of active learning with upper division computer science students]
+- [Assessment of active learning with upper division computer science students](https://www.researchgate.net/publication/4054740_Assessment_of_active_learning_with_upper_division_computer_science_students)
 - [The Concept of Active Learning and the Measurement of Learning Outcomes: A Review of Research in Engineering Higher Education](https://www.mdpi.com/2227-7102/9/4/276)
 - [Active Learning](https://www.oaa.osu.edu/sites/default/files/uploads/nfo/2019/Active-Learning-article.pdf)
 
