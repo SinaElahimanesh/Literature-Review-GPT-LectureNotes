@@ -110,3 +110,8 @@ SLIDE-BASED EDUCATIONAL VIDEOS](https://www.researchgate.net/profile/Baoquan-Zha
 
 - [ChatGPT for good? On opportunities and challenges of large language models for education](https://www.sciencedirect.com/science/article/pii/S1041608023000195)
 - [The Utility of ChatGPT as an Example of Large Language Models in Healthcare Education, Research and Practice: Systematic Review on the Future Perspectives and Potential Limitations](https://www.medrxiv.org/content/10.1101/2023.02.19.23286155v1)
+- [GPT-3-driven pedagogical agents for training children’s curious question-asking skills](https://arxiv.org/pdf/2211.14228.pdf)
+- [A review of opportunities and challenges of chatbots in education](https://www.researchgate.net/profile/Ching-Yi-Chang/publication/353332534_A_review_of_opportunities_and_challenges_of_chatbots_in_education/links/60f535b60859317dbdf21365/A-review-of-opportunities-and-challenges-of-chatbots-in-education.pdf)
+- 
+
+
