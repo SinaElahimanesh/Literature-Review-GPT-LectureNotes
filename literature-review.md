@@ -32,7 +32,6 @@ This list contains a collection of papers investigating lecture notes generation
 - [High school teachers use of writing to support students’ learning: a national survey](https://link.springer.com/article/10.1007/s11145-013-9494-8)
 - [A review of writing to learn in science: Implications for practice and research](https://onlinelibrary.wiley.com/doi/abs/10.1002/tea.3660310910)
 - [Writing as a learning tool: An Introduction](https://link.springer.com/chapter/10.1007/978-94-010-0740-5_2)
-(https://www.researchgate.net/publication/4054740_Assessment_of_active_learning_with_upper_division_computer_science_students)
 - [The Effects of School-Based Writing-to-Learn Interventions on Academic Achievement: A Meta-Analysis.](https://psycnet.apa.org/record/2004-13809-002)
 - [Making connections: Evaluating the effectiveness of journal writing in enhancing student learning.](https://psycnet.apa.org/record/2000-07173-010)
 - [Writing as a Mode of Learning](https://www.jstor.org/stable/356095)
