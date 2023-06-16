@@ -74,6 +74,18 @@ SLIDE-BASED EDUCATIONAL VIDEOS](https://www.researchgate.net/profile/Baoquan-Zha
 
 ## Other Related Educational Methods
 - [Small Talk Conversations and the Long-Term Use of Chatbots in Educational Settings – Experiences from a Field Study](https://link.springer.com/chapter/10.1007/978-3-030-39540-7_18)
+- [Chatbot: An Education Support System for Student](https://link.springer.com/chapter/10.1007/978-3-030-01689-0_23)
+- [Chatbots for learning: A review of educational chatbots for the Facebook Messenger](https://www.sciencedirect.com/science/article/pii/S0360131520300622)
+- [The Role of Chatbots in Formal Education](https://ieeexplore.ieee.org/abstract/document/8524609)
+- [Adoption of AI-Chatbots to Enhance Student Learning Experience in Higher Education in India](https://ieeexplore.ieee.org/abstract/document/8937382)
+- [Chatbot for E-Learning: A Case of Study](http://www.ijmerr.com/uploadfile/2018/0831/20180831043721869.pdf)
+- [A review of chatbots in education: Practical steps forward](https://eprints.qut.edu.au/134323/)
+- [Chatbot: An automated conversation system for the educational domain](https://ieeexplore.ieee.org/abstract/document/8692927)
+- [Chatbots for Education – Trends, Benefits and Challenges](https://www.ceeol.com/search/article-detail?id=668455)
+- [Interacting with educational chatbots: A systematic review](https://link.springer.com/article/10.1007/s10639-022-11177-3)
+- [Doly: Bengali Chatbot for Bengali Education](https://ieeexplore.ieee.org/abstract/document/8934592)
+- [Are We There Yet? - A Systematic Literature Review on Chatbots in Education](https://www.frontiersin.org/articles/10.3389/frai.2021.654924/full)
+- [How chatbots can be involved in the education process](https://ieeexplore.ieee.org/abstract/document/9040095)
 
 ## LLMs Applications
 
