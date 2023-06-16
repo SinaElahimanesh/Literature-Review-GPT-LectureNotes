@@ -8,7 +8,7 @@ This list contains a collection of papers investigating lecture notes generation
 - [The Impact of Lecture Note Writing in Learning](#The-Impact-of-Lecture-Note-Writing-in-Learning)
 - [Lecture Note Writing Strategies and Challenges](#Lecture-Note-Writing-Strategies-and-Challenges)
 - [Lecture Note Automatic Generation](#Lecture-Note-Automatic-Generation)
-- [Other Related Educational Methods](#Other-Related-Educational-Methods)
+- [The Use of Conversational ChatBots in Learning](#The-Use-of-Conversational-ChatBots-in-Learning)
 - [LLMs Applications](#LLMs-Applications)
 - [Applications of LLMs in Learning](#Applications-of-LLMs-in-Learning)
 
@@ -70,7 +70,7 @@ This list contains a collection of papers investigating lecture notes generation
 - [LECTURE2NOTE: AUTOMATIC GENERATION OF LECTURE NOTES FROM
 SLIDE-BASED EDUCATIONAL VIDEOS](https://www.researchgate.net/profile/Baoquan-Zhao/publication/334997213_Lecture2Note_Automatic_Generation_of_Lecture_Notes_from_Slide-Based_Educational_Videos/links/5f53c71592851c250b94e316/Lecture2Note-Automatic-Generation-of-Lecture-Notes-from-Slide-Based-Educational-Videos.pdf)
 
-## Other Related Educational Methods
+## The Use of Conversational ChatBots in Learning
 - [Small Talk Conversations and the Long-Term Use of Chatbots in Educational Settings – Experiences from a Field Study](https://link.springer.com/chapter/10.1007/978-3-030-39540-7_18)
 - [Chatbot: An Education Support System for Student](https://link.springer.com/chapter/10.1007/978-3-030-01689-0_23)
 - [Chatbots for learning: A review of educational chatbots for the Facebook Messenger](https://www.sciencedirect.com/science/article/pii/S0360131520300622)
