@@ -104,6 +104,7 @@ SLIDE-BASED EDUCATIONAL VIDEOS](https://www.researchgate.net/profile/Baoquan-Zha
 - [Mining Insights from Large-Scale Corpora Using Fine-Tuned Language Models](https://typeset.io/papers/mining-insights-from-large-scale-corpora-using-fine-tuned-1l3t4x21em)
 - [Collaborative Storytelling with Large-scale Neural Language Models](https://typeset.io/papers/collaborative-storytelling-with-large-scale-neural-language-4vzo1jqu1t)
 - [Language Models as Knowledge Bases](https://typeset.io/papers/language-models-as-knowledge-bases-2bs7zawas9)
+- [In-context Learning and Induction Heads](https://arxiv.org/pdf/2209.11895.pdf)
 
 ## Applications of LLMs in Learning
 
