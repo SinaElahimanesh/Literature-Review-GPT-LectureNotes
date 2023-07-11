@@ -20,8 +20,8 @@
 | L13|   |   |   |   |   |   | ✖ |   |
 | L14|   |   |   |   | ✖ |   |   |   |
 | L15|   |   |   | ✖ |   |   |   |   |
-| L16|   |   |   |   |   |   |   |   |
-| L17|   |   |   |   |   |   |   |   |
+| L16| ✖ |   |   |   |   |   |   |   |
+| L17|   |   |   |   |   |   |   | ✖ |
 
 
 </div>
@@ -44,7 +44,7 @@
 
 - L14: The Readability of Students’ Textbook Used in Semantic and Pragmatic Course in English Language Education Program of UNP
 - L15: Laptop versus longhand note taking: effects on lecture notes and achievement
-- L16:
-- L17:
+- L16: Effects of three types of lecture notes on medical student achievement
+- L17: Second language listening comprehension and lecture note-taking
 
 
