@@ -1,6 +1,6 @@
 <div align="center">
   
-| Paper/Challenge  | Learning Helpfulness | Quality | Attention/Distraction | Encouragement | Readability | Sharability | Speed | Within the Syllabus | 
+| Paper/Challenge  | Learning Helpfulness | Quality | Attention/Distraction | Encouragement | Readability | Sharability | Speed | Syllabus Conformity | 
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | L1  |   |   |✖|   |   |   | ✖ |   |
 | Content Cell  | Content Cell  |
