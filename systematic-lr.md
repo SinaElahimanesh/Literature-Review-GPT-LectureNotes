@@ -3,25 +3,25 @@
 
 <div align="center">
 
-| Paper/Challenge  | Learning Helpfulness | Quality | Attention/Distraction/Listening Comprehension | Encouragement/Quantity | Readability /Sharability | Speed | Syllabus Conformity | Cognitive Process/Working Memory | Language Comprehension |
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| L1 |   |   | ✖ |   |   | ✖ |   | ✖ |   |
-| L2 |   |   |   |   |   |   |   | ✖ | ✖ |
-| L3 |   | ✖ |   |   |   | ✖ |   |   |   |
-| L4 | ✖ |   | ✖ |   |   | ✖ |   |   |   |
-| L5 |   |   | ✖ |   |   |   |   |   |   |
-| L6 | ✖ |   |   |   |   |   |   |   |   |
-| L7 |   |   | ✖ |   |   |   |   |   |   |
-| L8 |   | ✖ | ✖ |   |   |   |   |   |   |
-| L9 |   |   |   |   |   |   |   | ✖ |   |
-| L10|   |   |   |   |   |   |   | ✖ |   |
-| L11| ✖ |   |   |   |   |   |   | ✖ |   |
-| L12|   |   | ✖ |   |   |   |   |   |   |
-| L13|   |   |   |   |   |   |   | ✖ |   |
-| L14|   |   |   |   | ✖ |   |   |   |   |
-| L15|   |   |   | ✖ |   |   |   |   |   |
-| L16|   |   |   |   |   |   |   |   |   |
-| L17|   |   |   |   |   |   |   |   |   |
+| Paper/Challenge  | Learning Helpfulness | Quality | Attention/Distraction/Listening Comprehension | Encouragement/Quantity | Readability /Sharability | Speed | Cognitive Process/Working Memory | Language Comprehension |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| L1 |   |   | ✖ |   |   | ✖ | ✖ |   |
+| L2 |   |   |   |   |   |   | ✖ | ✖ |
+| L3 |   | ✖ |   |   |   | ✖ |   |   |
+| L4 | ✖ |   | ✖ |   |   | ✖ |   |   |
+| L5 |   |   | ✖ |   |   |   |   |   |
+| L6 | ✖ |   |   |   |   |   |   |   |
+| L7 |   |   | ✖ |   |   |   |   |   |
+| L8 |   | ✖ | ✖ |   |   |   |   |   |
+| L9 |   |   |   |   |   |   | ✖ |   |
+| L10|   |   |   |   |   |   | ✖ |   |
+| L11| ✖ |   |   |   |   |   | ✖ |   |
+| L12|   |   | ✖ |   |   |   |   |   |
+| L13|   |   |   |   |   |   | ✖ |   |
+| L14|   |   |   |   | ✖ |   |   |   |
+| L15|   |   |   | ✖ |   |   |   |   |
+| L16|   |   |   |   |   |   |   |   |
+| L17|   |   |   |   |   |   |   |   |
 
 
 </div>
