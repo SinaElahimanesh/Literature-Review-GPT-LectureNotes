@@ -1,5 +1,6 @@
 <div align="center">
-  
+
+| <td colspan="2">Three</td> |
 | Paper/Challenge  | Learning Helpfulness | Quality | Attention/Distraction | Encouragement | Readability | Sharability | Speed | Syllabus Conformity | 
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | L1  |   |   |✖|   |   |   | ✖ |   |
