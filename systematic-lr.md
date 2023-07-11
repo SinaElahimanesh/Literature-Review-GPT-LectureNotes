@@ -1,10 +1,10 @@
 <div align="center">
 
-| Articles | <td colspan="9">Three</td> |
-|:-------------:|:-------------:|
-|   | Learning Helpfulness | Quality | Attention/Distraction | Encouragement | Readability | Sharability | Speed | Syllabus Conformity | 
+| Paper/Challenge  | Learning Helpfulness | Quality | Attention/Distraction | Encouragement | Readability | Sharability | Speed | Syllabus Conformity | 
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | L1  |   |   |✖|   |   |   | ✖ |   |
-| Content Cell  | <td colspan="3">Three</td>  |
+| Content Cell  | Content Cell  |
+| Content Cell  | <td colspan="2">Three</td>  |
 
 </div>
 
