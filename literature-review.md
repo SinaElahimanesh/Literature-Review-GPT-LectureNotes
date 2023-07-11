@@ -58,6 +58,10 @@ This list contains a collection of papers investigating lecture notes generation
 - [The role of working memory abilities in lecture note-taking](https://www.sciencedirect.com/science/article/abs/pii/S1041608014000958)
 - [Blackwell Publishing Asia SHORT REPORT Effects of interventions in note-taking Conditional effects of interventions in note-taking procedures on learning: A meta-analysis](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-5884.2006.00311.x)
 - [Taking notes from lectures](https://psycnet.apa.org/record/1999-04238-006)
+- [The Readability of Students’ Textbook Used in Semantic and Pragmatic Course in English Language Education Program of UNP](https://ejournal.unp.ac.id/index.php/jelt/article/view/107848)
+- [Laptop versus longhand note taking: effects on lecture notes and achievement](https://link.springer.com/article/10.1007/s11251-018-9458-0#:~:text=Laptop%20note%20takers%20outperformed%20longhand,words%20than%20the%20longhand%20group.)
+- [Effects of three types of lecture notes on medical student achievement](https://pubmed.ncbi.nlm.nih.gov/6876123/)
+- [Second language listening comprehension and lecture note-taking](https://www.researchgate.net/publication/345825569_Second_language_listening_comprehension_and_lecture_note-taking)
 
 
 ## Lecture Note Automatic Generation
