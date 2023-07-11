@@ -1,5 +1,5 @@
 
-## The Challenges of Lecture Note Taking in the Literature
+## The Challenges of Lecture-Note-Taking in the Literature
 
 <div align="center">
 
