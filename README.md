@@ -1,13 +1,30 @@
 # A Literature Review on LLMs and Lecture Note Generation
 
-This repository includes lists of papers, short descriptions, and a link for each on a set of CS topics related to LLMs and Lecture Note Generation.
-The lists are by no means exhaustive. All the data are collected by a human (me :) ) without using crawlers or automated software. The lists can help you - as a researcher - get ideas for the possible citations and related work for your own paper and find the previous work done on your desired topic. In addition to the terms and conditions in the **license file**, you have to **cite this repository** in case you cite any paper in the lists in this repository after looking at the list. Also, you're **not allowed to write any survey or literature review** based on the collected papers in this repository; the only papers allowed to use and cite this repository are research papers, which can use the provided lists while writing the "Related Work" section.
+## Overview
 
-The sentences used for introducing the papers are not necessarily the title of the papers; whenever I thought an excerpt from the abstract (or in open access papers, the body of the paper) could describe what the paper is about, I've used the excerpt (in some cases, modified a bit) as the title for the link. Some articles may be duplicated if the paper specifies multiple important points. You should look at each paper before using them as a citation, and the lists have no guarantee to be correct, so use the contents of this repository at your own risk.
+The collections contained herein have been personally compiled without the aid of web crawlers or any form of automated gathering software. These curated lists are intended to serve as a starting point for researchers looking for references, inspiration, and a comprehensive background of work in their area of interest.
 
-This repository is a work in progress. You can open a pull request if any description is insufficient or wrong or if you want to add or suggest other papers and/or resources.
+Please note that these lists are not exhaustive. They represent a snapshot of a continually evolving field, gathered to the best of my ability and knowledge.
 
-You can cite this repository using the following BibTeX entry:
+## Repository Use and Citations
+
+Before diving into the content, we kindly ask you to review the terms outlined in the **LICENSE** file within this repository. If you find any of the papers useful for your research and opt to cite them, a citation of this repository is required. 
+
+Furthermore, it's important to mention that the creation of surveys or literature reviews directly from the papers listed here is not permitted. This repository is intended solely as a resource for research papers, particularly to support the "Related Work" sections.
+
+## Paper Descriptions
+
+The provided summaries for each paper are crafted for brevity and may not always mirror the titles of the papers. Where deemed necessary, snippets from abstracts—or the main text in the case of open-access papers—have been used to capture the essence of the work. Occasionally, these excerpts have been slightly modified for clarity and conciseness.
+
+It is possible that some papers are listed more than once if they touch upon multiple relevant topics. We urge you to review the papers thoroughly before citing them. While we strive for accuracy, there is no guarantee that the lists are free from errors. Thus, any use of the content in this repository is at your own discretion and risk.
+
+## Contributions
+
+As the landscape of Robust LLMs is constantly advancing, this repository is inherently a work in progress. Your contributions are invaluable—whether it's to correct an inaccuracy, enhance a description, or recommend additional work. Feel free to submit a pull request with your suggested changes or additions.
+
+## Citing This Repository
+
+If you wish to reference this repository in your work, please use the BibTeX entry provided below.
 
 ```
 @misc{SinaElahimanesh2023,
