@@ -41,7 +41,6 @@
 - L11: The relationship between information-processing ability and notetaking
 - L12: Listening and note taking: II. Immediate and delayed recall as functions of variations in thematic continuity, note taking, and length of listening-review intervals
 - L13: The role of working memory abilities in lecture note-taking
-
 - L14: The Readability of Students’ Textbook Used in Semantic and Pragmatic Course in English Language Education Program of UNP
 - L15: Laptop versus longhand note taking: effects on lecture notes and achievement
 - L16: Effects of three types of lecture notes on medical student achievement
